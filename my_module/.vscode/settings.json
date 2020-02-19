@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\user\\Anaconda3\\python.exe",
+
+    // 以下高速化のため色々自動の機能をOFFにした。
+    "typescript.tsc.autoDetect": "off",
+    "grunt.autoDetect": "off",
+    "jake.autoDetect": "off",
+    "npm.autoDetect": "off",
+    "gulp.autoDetect": "off"
+}
